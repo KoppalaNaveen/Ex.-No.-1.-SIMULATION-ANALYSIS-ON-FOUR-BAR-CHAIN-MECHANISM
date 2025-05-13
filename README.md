@@ -53,11 +53,11 @@
 
 
 ## Output:
-![image](https://github.com/user-attachments/assets/44df3cf5-fdf1-40fd-a250-73d6b304c321)
+![Screenshot 2025-05-13 154633](https://github.com/user-attachments/assets/85a4025d-9140-489c-9066-59b8f7a5aa39)
 
-![image](https://github.com/user-attachments/assets/4e872ef8-8955-4313-88f5-04b4e1bad5cb)
+![Screenshot 2025-05-13 154653](https://github.com/user-attachments/assets/8016ac03-40e9-40bd-9a15-effec1c2079b)
 
-![image](https://github.com/user-attachments/assets/67e168c9-2c3a-40ac-99f7-1f90cfde5c63)
+![Screenshot 2025-05-13 154732](https://github.com/user-attachments/assets/8617c266-84bd-4e8b-a22b-4974518a153b)
 
 ### Name: KOPPALA NAVEEN
 ### Register Number: 212223100023
